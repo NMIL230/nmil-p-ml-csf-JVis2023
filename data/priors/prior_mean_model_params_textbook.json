@@ -1,0 +1,20 @@
+{
+  "psi_sigma": 0.08,
+  "psi_gamma": 0.04,
+  "psi_lambda": 0.04,
+  "random_seed": 20,
+  "num_points_per_phenotype": 250,
+  "num_initial_points": 1000,
+  "xs": 106,
+  "ys": 91,
+  "raw_freq_min": 0.5,
+  "raw_freq_max": 64,
+  "raw_contrast_min": 0.001,
+  "raw_contrast_max": 1,
+  "lr": 0.125,
+  "beta_for_regularization": 0.5,
+  "min_lengthscale": 0.4,
+  "num_initial_points_training_iters": 1500,
+  "num_new_points": 0,
+  "num_new_points_training_iters": 0
+}
